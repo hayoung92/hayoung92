@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=250&section=header&text=Hi&nbsp;there&nbsp;👋&fontSize=90)  
+
+![Taeyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayoung92&show_icons=true&theme=cobalt)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayoung92&layout=compact)](https://github.com/hayoung92/github-readme-stats)
 
 <!--
 **hayoung92/hayoung92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
